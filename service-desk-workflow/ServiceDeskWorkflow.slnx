@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NotificationService/NotificationService.csproj" />
+    <Project Path="src/RoutingService/RoutingService.csproj" />
+    <Project Path="src/ServiceDesk.Contracts/ServiceDesk.Contracts.csproj" />
+    <Project Path="src/TicketApi/TicketApi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ServiceDesk.Tests/ServiceDesk.Tests.csproj" />
+  </Folder>
+</Solution>
